@@ -1,4 +1,4 @@
-Freelancer Jekyll theme  
+Freelancer Jekyll theme (Ingmar's fork)  
 =========================
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
