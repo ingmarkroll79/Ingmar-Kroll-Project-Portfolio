@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: [Go to the details](https://ingmarkroll79.github.io/SQL_project_internet_vs_depression/)
+description: https://ingmarkroll79.github.io/SQL_project_internet_vs_depression/
 ---
