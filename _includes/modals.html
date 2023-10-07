@@ -35,10 +35,19 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+			  
+			  {% if post.link %}
+              <li>Details:
+                <strong><a href={{ post.category }}>Click!</a></strong>
+              </li>
+              {% endif %}
+			  
             </ul>
 			
 <!-- Zusätzlicher Link für Sprung zu Projekt in GitHub -->
-			<a href="https://ingmarkroll79.github.io/SQL_project_internet_vs_depression/">Go the project details</a>
+            <p>
+				<a href="https://ingmarkroll79.github.io/SQL_project_internet_vs_depression/">Go to the project details</a>
+			</p>
 			
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
